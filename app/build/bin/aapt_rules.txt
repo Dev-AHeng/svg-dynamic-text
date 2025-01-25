@@ -1,0 +1,6 @@
+# view res/layout/main.xml #generated:7
+-keep class com.eftimoff.androipathview.PathView { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.mycompany.myapp2.MainActivity { <init>(...); }
+
