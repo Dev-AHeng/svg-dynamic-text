@@ -8,7 +8,6 @@ import android.view.animation.LinearInterpolator;
 //我已经加了，可以自己看看
 public class MainActivity extends Activity 
 {
-	
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
